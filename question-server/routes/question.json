@@ -1,0 +1,902 @@
+{
+    "data": [
+        {
+            "question": "What is the speed of light?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "The phase difference between prongs of a tuning fork is?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "The time period of a simple pendulum is independent of?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "When a wave is reflected from a rigid support, the phase change is?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "The sound intensity level at a point 10 m away from a point source is 20dB, then the sound level at a distance 1m from the same source would be?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "When a sound wave travels from one medium to another, the quantity that remains unchanged is?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "hospital uses an ultrasonic scanner to locate tumors in a tissue. What is the wavelength of sound in the tissue in which the speed of sound is 1.7km−15? The operating frequency of the scanner is 4.2MHz.",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "A string of length 0.6m and mass 0.02kg is fixed at both ends. What should be the tension in the string so that the wave speed is 60m/s?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "The length of a sonometer wire between two fixed ends is 110cm. Where the two bridges should be placed so as to divide the wire into three segments whose fundamental frequencies are in the ratio of 1: 2: 3?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": " Why is Gravitational Potential Energy Always Negative?",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the difference between Gravitational Potential and Gravitational Potential Energy?",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Name Two Factors Which Determine Whether a Planet has an Atmosphere or Not.",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the Difference Between Mass and Weight?",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the Difference Between Gravitational Field and Gravitational Field Strength?",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "If the radius of earth is 6400km, what will be the weight of 1 quintal body if taken to the height of 1600km above the sea level?",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "The Distance of the Planet Jupiter from the Sun is 5.2 times that of the Earth. Find the period of Jupiter's revolution around the sun. ",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "A rocket is fired from the earth towards the sun. At what distance from the earth's centre is the gravitational force on the rocket zero? ",
+            "subject": "physics",
+            "topic": "gravitation",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Define Ohm's Law.",
+            "subject": "physics",
+            "topic": "electricity",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the SI unit of electric current?",
+            "subject": "physics",
+            "topic": "electricity",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "State the difference between series and parallel circuits.",
+            "subject": "physics",
+            "topic": "electricity",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of magnetic field lines.",
+            "subject": "physics",
+            "topic": "magnetism",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is electromagnetic induction?",
+            "subject": "physics",
+            "topic": "magnetism",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define nuclear fusion and nuclear fission.",
+            "subject": "physics",
+            "topic": "nuclear physics",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the Doppler effect.",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define and explain the concept of velocity.",
+            "subject": "physics",
+            "topic": "motion",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is Newton's first law of motion? Provide an example.",
+            "subject": "physics",
+            "topic": "motion",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the difference between mass and weight.",
+            "subject": "physics",
+            "topic": "forces",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the properties of magnetic field lines.",
+            "subject": "physics",
+            "topic": "magnetism",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the formula for calculating kinetic energy?",
+            "subject": "physics",
+            "topic": "energy",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define simple harmonic motion and provide an example.",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the process of conduction in heat transfer.",
+            "subject": "physics",
+            "topic": "heat",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the difference between speed and velocity?",
+            "subject": "physics",
+            "topic": "motion",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "State Ohm's Law and its significance in electricity.",
+            "subject": "physics",
+            "topic": "electricity",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define and give an example of elastic potential energy.",
+            "subject": "physics",
+            "topic": "energy",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the principle of conservation of energy.",
+            "subject": "physics",
+            "topic": "energy",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the structure of an atom.",
+            "subject": "physics",
+            "topic": "atomic structure",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the purpose of a concave lens?",
+            "subject": "physics",
+            "topic": "optics",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define refraction of light and provide an example.",
+            "subject": "physics",
+            "topic": "optics",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of power in physics.",
+            "subject": "physics",
+            "topic": "energy",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the working principle of a simple pendulum.",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "State Pascal's Law and its applications.",
+            "subject": "physics",
+            "topic": "fluids",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the Doppler effect in physics?",
+            "subject": "physics",
+            "topic": "waves",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of force and its units.",
+            "subject": "physics",
+            "topic": "forces",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the law of reflection of light.",
+            "subject": "physics",
+            "topic": "optics",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Discuss the principles of electromagnetic induction.",
+            "subject": "physics",
+            "topic": "electromagnetism",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the laws of thermodynamics and their applications.",
+            "subject": "physics",
+            "topic": "thermodynamics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define and discuss the properties of electromagnetic waves.",
+            "subject": "physics",
+            "topic": "electromagnetism",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the behavior of gases using the kinetic molecular theory.",
+            "subject": "physics",
+            "topic": "thermodynamics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the concept of wave-particle duality in quantum mechanics.",
+            "subject": "physics",
+            "topic": "quantum mechanics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the principles of special relativity.",
+            "subject": "physics",
+            "topic": "relativity",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the applications of optics in real-life situations.",
+            "subject": "physics",
+            "topic": "optics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the working principles of a transformer.",
+            "subject": "physics",
+            "topic": "electricity",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the process of nuclear fission and its applications.",
+            "subject": "physics",
+            "topic": "nuclear physics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the principles of fluid mechanics.",
+            "subject": "physics",
+            "topic": "fluids",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the principles of quantum mechanics and its applications in modern physics.",
+            "subject": "physics",
+            "topic": "quantum mechanics",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the theory of general relativity and its implications.",
+            "subject": "physics",
+            "topic": "relativity",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Describe the challenges and principles of nuclear fusion.",
+            "subject": "physics",
+            "topic": "nuclear physics",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concept of dark matter and its role in the universe.",
+            "subject": "physics",
+            "topic": "cosmology",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the applications and challenges of nanotechnology in physics.",
+            "subject": "physics",
+            "topic": "nanotechnology",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Describe the structure of an atom.",
+            "subject": "chemistry",
+            "topic": "atomic structure",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is Avogadro's number?",
+            "subject": "chemistry",
+            "topic": "stoichiometry",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the process of chemical bonding.",
+            "subject": "chemistry",
+            "topic": "chemical bonding",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define entropy in thermodynamics.",
+            "subject": "chemistry",
+            "topic": "thermodynamics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "What is the difference between an acid and a base?",
+            "subject": "chemistry",
+            "topic": "acids and bases",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the process of photosynthesis.",
+            "subject": "biology",
+            "topic": "photosynthesis",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "What is the function of the mitochondria in a cell?",
+            "subject": "biology",
+            "topic": "cell biology",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the stages of mitosis.",
+            "subject": "biology",
+            "topic": "cell division",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the theory of natural selection.",
+            "subject": "biology",
+            "topic": "evolution",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "What is the role of the nervous system in the human body?",
+            "subject": "biology",
+            "topic": "nervous system",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the principles of electromagnetic induction.",
+            "subject": "physics",
+            "topic": "electromagnetism",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the laws of thermodynamics and their applications.",
+            "subject": "physics",
+            "topic": "thermodynamics",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Describe the structure of benzene and its chemical properties.",
+            "subject": "chemistry",
+            "topic": "organic chemistry",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concepts of equilibrium and reaction kinetics in chemical reactions.",
+            "subject": "chemistry",
+            "topic": "chemical kinetics",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the role of enzymes in metabolic pathways.",
+            "subject": "biology",
+            "topic": "biochemistry",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Explain the process of DNA replication and its significance in cell division.",
+            "subject": "biology",
+            "topic": "genetics",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the anatomy and functions of the human nervous system.",
+            "subject": "biology",
+            "topic": "neuroscience",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Explain the principles of quantum mechanics and its applications in modern physics.",
+            "subject": "physics",
+            "topic": "quantum mechanics",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Discuss the various methods of chemical analysis in analytical chemistry.",
+            "subject": "chemistry",
+            "topic": "analytical chemistry",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Explain the concepts of homeostasis and feedback mechanisms in physiology.",
+            "subject": "biology",
+            "topic": "physiology",
+            "difficulty": "hard",
+            "marks": 10
+        },
+        {
+            "question": "Define and explain the concept of chemical bonding.",
+            "subject": "chemistry",
+            "topic": "chemical bonding",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the periodic table, and how is it organized?",
+            "subject": "chemistry",
+            "topic": "periodic table",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the difference between an element and a compound.",
+            "subject": "chemistry",
+            "topic": "elements and compounds",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the properties of acids and bases.",
+            "subject": "chemistry",
+            "topic": "acids and bases",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the significance of the mole in chemistry?",
+            "subject": "chemistry",
+            "topic": "stoichiometry",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of exothermic and endothermic reactions.",
+            "subject": "chemistry",
+            "topic": "thermochemistry",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define and give an example of a redox reaction.",
+            "subject": "chemistry",
+            "topic": "redox reactions",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Discuss the states of matter and their properties.",
+            "subject": "chemistry",
+            "topic": "states of matter",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the role of catalysts in chemical reactions?",
+            "subject": "chemistry",
+            "topic": "catalysis",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of electronegativity in chemical bonding.",
+            "subject": "chemistry",
+            "topic": "chemical bonding",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Describe the structure of an atom and its components.",
+            "subject": "chemistry",
+            "topic": "atomic structure",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the role of buffers in maintaining pH in solutions?",
+            "subject": "chemistry",
+            "topic": "acids and bases",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of entropy in thermodynamics.",
+            "subject": "chemistry",
+            "topic": "thermodynamics",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Discuss the properties and uses of noble gases.",
+            "subject": "chemistry",
+            "topic": "noble gases",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define and explain the concept of chemical equilibrium.",
+            "subject": "chemistry",
+            "topic": "chemical equilibrium",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What is the role of isotopes in chemistry?",
+            "subject": "chemistry",
+            "topic": "isotopes",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Discuss the properties and uses of transition metals.",
+            "subject": "chemistry",
+            "topic": "transition metals",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the principles of chromatography as a separation technique.",
+            "subject": "chemistry",
+            "topic": "chromatography",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "What are the basic principles of nuclear chemistry?",
+            "subject": "chemistry",
+            "topic": "nuclear chemistry",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Discuss the principles of organic chemistry.",
+            "subject": "chemistry",
+            "topic": "organic chemistry",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Explain the concept of molecular geometry.",
+            "subject": "chemistry",
+            "topic": "molecular geometry",
+            "difficulty": "easy",
+            "marks": 2
+        },
+        {
+            "question": "Define and discuss the properties of chemical kinetics.",
+            "subject": "chemistry",
+            "topic": "chemical kinetics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the principles of electrochemistry and its applications.",
+            "subject": "chemistry",
+            "topic": "electrochemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the concept of quantum numbers in atomic structure.",
+            "subject": "chemistry",
+            "topic": "atomic structure",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the principles of organic synthesis.",
+            "subject": "chemistry",
+            "topic": "organic chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the properties and uses of halogens.",
+            "subject": "chemistry",
+            "topic": "halogens",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the principles of coordination chemistry.",
+            "subject": "chemistry",
+            "topic": "coordination chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the concept of thermodynamic stability in chemical reactions.",
+            "subject": "chemistry",
+            "topic": "thermodynamics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the properties and uses of alkali metals.",
+            "subject": "chemistry",
+            "topic": "alkali metals",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define and explain the concept of photochemistry.",
+            "subject": "chemistry",
+            "topic": "photochemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the principles of nuclear magnetic resonance (NMR).",
+            "subject": "chemistry",
+            "topic": "nuclear magnetic resonance",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the principles and applications of surface chemistry.",
+            "subject": "chemistry",
+            "topic": "surface chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define and discuss the principles of chemical thermodynamics.",
+            "subject": "chemistry",
+            "topic": "chemical thermodynamics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the properties and uses of noble gases.",
+            "subject": "chemistry",
+            "topic": "noble gases",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the principles of analytical chemistry.",
+            "subject": "chemistry",
+            "topic": "analytical chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the principles of inorganic chemistry.",
+            "subject": "chemistry",
+            "topic": "inorganic chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the properties and uses of transition metals.",
+            "subject": "chemistry",
+            "topic": "transition metals",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the concept of chromatography as a separation technique.",
+            "subject": "chemistry",
+            "topic": "chromatography",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define and discuss the principles of chemical equilibrium.",
+            "subject": "chemistry",
+            "topic": "chemical equilibrium",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "What is the role of isotopes in chemistry?",
+            "subject": "chemistry",
+            "topic": "isotopes",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the principles of quantum chemistry.",
+            "subject": "chemistry",
+            "topic": "quantum chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the concept of molecular geometry.",
+            "subject": "chemistry",
+            "topic": "molecular geometry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Define and discuss the principles of chemical kinetics.",
+            "subject": "chemistry",
+            "topic": "chemical kinetics",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the principles of electrochemistry and its applications.",
+            "subject": "chemistry",
+            "topic": "electrochemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the concept of quantum numbers in atomic structure.",
+            "subject": "chemistry",
+            "topic": "atomic structure",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the principles of organic synthesis.",
+            "subject": "chemistry",
+            "topic": "organic chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Discuss the properties and uses of halogens.",
+            "subject": "chemistry",
+            "topic": "halogens",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Describe the principles of coordination chemistry.",
+            "subject": "chemistry",
+            "topic": "coordination chemistry",
+            "difficulty": "medium",
+            "marks": 5
+        },
+        {
+            "question": "Explain the concept of thermodynamic stability in chemical reactions.",
+            "subject": "chemistry",
+            "topic": "thermodynamics",
+            "difficulty": "medium",
+            "marks": 5
+        }
+    ]
+}
+
+
